@@ -1,0 +1,31 @@
+{
+  "name": "rehype-image-placeholder",
+  "version": "1.0.0",
+  "description": "Rehype plugin for image sizes and placeholders",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattcroat/rehype-image-placeholder.git"
+  },
+  "keywords": [
+    "rehype",
+    "rehype-plugin",
+    "image",
+    "placeholder"
+  ],
+  "author": "Matia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattcroat/rehype-image-placeholder/issues"
+  },
+  "homepage": "https://github.com/mattcroat/rehype-image-placeholder#readme",
+  "dependencies": {
+    "image-size": "^1.0.0",
+    "lqip-modern": "^1.2.0",
+    "unist-util-visit": "^4.1.0"
+  }
+}
