@@ -25,8 +25,6 @@ export default function setImageSizeAndPlaceholder(options = {}) {
             src = path.join(dir, src)
           }
 
-          console.log({ src })
-
           // get the width and height of the image
           const { width, height } = sizeOf(src)
 
