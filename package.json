@@ -1,6 +1,6 @@
 {
   "name": "rehype-image-placeholder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rehype plugin for image sizes and placeholders",
   "main": "index.js",
   "type": "module",
